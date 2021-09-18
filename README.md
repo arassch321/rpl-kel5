@@ -10,3 +10,10 @@ Nama Anggota Kelompok 5:
 8. Mita Yani Nurma Pratiwi              (1910817320003)
 9. Rahmadani                            (1910817720001)
 10. Nur Izzatul Fitri Binti Mas’ud      (1910817720002)
+
+Fitur dalam RPL kami:
+1. Register
+2. Log in
+3. Home
+4. Edukasi
+5. Kontak
