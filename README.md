@@ -9,4 +9,4 @@ Nama Anggota Kelompok 5:
 7. Charvia Cipta Wijaya              (1910817310016)
 8. Mita Yani Nurma Pratiwi           (1910817320003)
 9. Rahmadani                         (1910817720001)
-10.Nur Izzatul Fitri Binti Mas’ud    (1910817720002)
+10. Nur Izzatul Fitri Binti Mas’ud    (1910817720002)
