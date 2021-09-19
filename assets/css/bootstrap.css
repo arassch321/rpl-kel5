@@ -202,8 +202,30 @@ svg {
   vertical-align: middle;
 }
 
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 table {
   border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 15px;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
 }
 
 caption {
