@@ -15,6 +15,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: lightgreen;
     background-size: cover;
     background-position: center;
     font-family: 'roboto', sans-serif;
