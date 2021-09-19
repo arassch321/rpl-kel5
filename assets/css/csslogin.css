@@ -233,7 +233,7 @@ body {
     -ms-transform: translate(-50%, -50%);
 }
 
-.signup-content {
+.login-content {
     background: #fff;
     border-radius: 10px;
     -moz-border-radius: 10px;
@@ -443,7 +443,7 @@ input[type=checkbox]:not(old):checked+label>span:before {
 }
 
 @media screen and (max-width: 480px) {
-    .signup-content {
+    .login-content {
         padding: 50px 25px;
     }
 }
