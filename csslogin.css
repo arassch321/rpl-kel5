@@ -58,7 +58,7 @@ input::placeholder{
 
 input:focus,
 .submit-btn:hover{
-    background: #fff;
+    background-color: #fff;
     color: #000;
 }
 
@@ -71,6 +71,21 @@ input:focus::placeholder{
     padding: 0 20px;
     cursor: pointer;
     margin: 50px auto 0;
+    height: 35px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    background: #00D9A5;
+    border: none;
+    color: #fff;
+
+    transition: .5s;
+    text-transform: capitalize;
+}
+
+.submit-btn:hover{
+    background-color: rgba(128, 128, 128, .8);
+    color: #fff;
 }
 
 .link{
