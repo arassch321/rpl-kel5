@@ -15,7 +15,7 @@ Nama Anggota Kelompok 5:
 
 Fitur dalam RPL kami:
 
-1. Register (Arras)
+1. Register, Database Akun (Arras)
 2. Log in (Aryo, Ilham)
 3. Home (Charvia, Jeremy)
 4. Edukasi (Mita, Izza)
