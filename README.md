@@ -1,5 +1,7 @@
 # rpl-kel5
+
 Nama Anggota Kelompok 5:
+
 1. Muhammad Arras                       (1910817310008)
 2. Gusti Muhammad Ridho Arrizki         (1910817310009)
 3. Muhammad Razaq Lazuardi              (1910817310010)
@@ -12,6 +14,7 @@ Nama Anggota Kelompok 5:
 10. Nur Izzatul Fitri Binti Mas’ud      (1910817720002)
 
 Fitur dalam RPL kami:
+
 1. Register (Arras)
 2. Log in (Aryo, Ilham)
 3. Home (Charvia, Jeremy)
