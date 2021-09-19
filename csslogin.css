@@ -9,21 +9,22 @@
 }
 
 body{
-    position: relative;
+    position: center;
     width: 100%;
     min-height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: lightgreen;
+    background: url('../assets/img/bg_image_1.jpg');
     background-size: cover;
     background-position: center;
     font-family: 'roboto', sans-serif;
 }
 
 .form{
-    width: 400px;
-    height: auto;
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
     color: #0000FF;
     font-family: 'roboto', sans-serif;
 }
