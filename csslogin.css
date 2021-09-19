@@ -92,11 +92,11 @@ input:focus::placeholder{
     text-align: center;
     text-transform: capitalize;
     text-decoration: none;
-    color: rgba(255, 255, 255, 0.5);
+    color: #000;
     display: block;
     margin: 30px auto;
 }
 
 .link:hover{
-    color: #000;
+    color: #1E90FF;
 }
