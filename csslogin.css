@@ -1,6 +1,63 @@
 *{
     margin: 0;
     padding: 0;
-    outline: 0;
-    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+*:focus{
+    outline: none;
+}
+
+body{
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    font-family: 'roboto', sans-serif;
+}
+
+.form{
+    width: 400px;
+    height: auto;
+    color: #0000FF;
+    font-family: 'roboto', sans-serif;
+}
+
+.heading{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+input{
+    width: 80%;
+    height: 35px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.3);
+    border: none;
+    color: #000000;
+    padding: 15px;
+    transition: .5s;
+    text-transform: capitalize;
+}
+
+input::placeholder{
+    color: #0000FF;
+}
+
+input:focus{
+    background: #fff;
+    color: #000;
+}
+
+input:focus::placeholder{
+    color: #000;
 }
