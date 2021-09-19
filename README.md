@@ -1,5 +1,8 @@
 # rpl-kel5
 
+Website Covid-19 yang berjudul hinovid (Hindari Covid-19)
+http://hinovid.rf.gd/
+
 Nama Anggota Kelompok 5:
 
 1. Muhammad Arras                       (1910817310008)
@@ -15,7 +18,7 @@ Nama Anggota Kelompok 5:
 
 Fitur dalam RPL kami:
 
-1. Register, Database Akun (Arras)
+1. Register, Database Akun, hosting web (Arras)
 2. Log in (Aryo, Ilham)
 3. Home (Charvia, Jeremy)
 4. Edukasi (Mita, Izza)
