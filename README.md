@@ -23,3 +23,4 @@ Fitur dalam RPL kami:
 3. Home (Charvia, Jeremy)
 4. Edukasi (Mita, Izza)
 5. Kontak (Rama)
+6. Logout
